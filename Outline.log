@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  19 DEC 2019 13:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  19 DEC 2019 13:45
 entering extended mode
 **./Outline.tex
 (Outline.tex
@@ -1230,21 +1230,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
  (Outline.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
-
-
-Package rerunfilecheck Warning: File `Outline.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Outline.out':
-(rerunfilecheck)             Before: D7E218874557EA426EF9930E086DBE69;102
-(rerunfilecheck)             After:  E130572906621FC0E8F35952A10C5ED4;78.
+Package rerunfilecheck Info: File `Outline.out' has not changed.
+(rerunfilecheck)             Checksum: E130572906621FC0E8F35952A10C5ED4;78.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
  18460 strings out of 492969
  347017 string characters out of 3126585
- 439367 words of memory out of 3000000
+ 439366 words of memory out of 3000000
  21958 multiletter control sequences out of 15000+200000
  10477 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1261,7 +1254,7 @@ Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kbhan/A
 ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/
 Users/kbhan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/eurosym/feymr1
 0.pfb>
-Output written on Outline.pdf (2 pages, 129822 bytes).
+Output written on Outline.pdf (2 pages, 129797 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
