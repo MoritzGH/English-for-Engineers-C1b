@@ -1,0 +1,96 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc} 
+\usepackage{float}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{wasysym}  
+\usepackage{amssymb}  
+\usepackage{amsfonts} 
+\usepackage{graphicx} 
+\usepackage{hyperref} 
+\usepackage{booktabs} 
+\usepackage{todonotes} 
+\usepackage{marginnote}
+\usepackage[official]{eurosym}
+\usepackage{lastpage}
+\usepackage{parcolumns}
+
+
+\usepackage[a4paper,bindingoffset=0.25in,
+top= 1in,left=0.5in,right=1in,bottom=1in,
+footskip=.25in]{geometry}
+\setlength{\headsep}{40pt}
+\usepackage[headsepline,plainheadsepline]{scrpage2} 
+\pagestyle{scrheadings} 
+
+\clearscrheadings 
+\clearscrplain 
+\clearscrheadfoot 
+
+\ihead[{\includegraphics[height=40pt]{logo}}]{\includegraphics[height=40pt]{logo}}
+\ohead{\headmark}
+\automark[subsection]{section}
+\ofoot{\pagemark}
+
+
+
+\begin{document}
+
+\section{Section IV Vehicle to Grid}
+\begin{parcolumns}[colwidths={1=2.5 cm, 2=10 cm, 3=2.5cm}]{3}
+
+\colchunk{  \\ \\ \textbf{Definition} \\  \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\
+\textbf{Feasibility} \\ \\ \\ 
+				\\ \\ \\	\\ \\ \\ \\ \\ \\  \textbf{Scaling}\\ \\
+				\\ \\ \\ \\ \\	 \\ \\ \\  \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \textbf{Cost}\\ \\ \\
+				\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \textbf{Efficiency}
+				\\ \\ \\\\\\\\\\\     \\\\\\ \\\\\\\\\\\\\\\\\\	\\\\ \textbf{Substainability}}
+
+\colchunk{\\ \\ (DEFINITION): A solution to utilize unused renewable Energy, which does not rely on building additional storage systems is using EVs (Electric vehicles) and PHEVs (Plug in Hybird) as Storage system.  When the power output of the grid/the offshore parks is low the EVs can throttle their charging rate or even return power to the grid. The EVs could also delay their charge and use the peaks in the power output of offshore parks to charge their batteries.
+%https://en.wikipedia.org/wiki/Vehicle-to-grid
+There are two fundamental Ideas in Vehical to Grid. Bidirectional Vehical to Grid where the EVs also return power to the grid or unidirectional Vehical to Grid where the EVs only store the power but do not return power to the grid.
+\\ \\
+\noindent
+(Feasibility): Bidirectional Vehicle to Grid requires special hardware. This results in a system, that is far more complex and expensive than unidirectional Vehicle to Grid. It also results in a lot of additional wear in the EVs batteries. It would therefore be a lot more difficult to convince customers to use bidirectional Vehicle to Grid. At the same time multiple Studies showed, that the profit is not significantly higher than with unidirectional Vehicle to Grid. Because of this unidirectional Vehicle to Grid is superior and will therefore be the object of the following calculations.
+%\url{https://www.isi.fraunhofer.de/content/dam/isi/dokumente/sustainability-innovation/2010/WP4-2010_V2G-Valuation.pdf}
+%\url{https://www.erneuerbar-mobil.de/sites/default/files/publications/anhang-optum-ap6_1.pdf}
+\\ \\
+\noindent
+(Scaling): On average a vehicle spends over 90 percent of the day not driving. Given the Infrastructure a EV could be connected to the grid and function as a storage system in this time. In Germany are over 83000 EVs and almost 67000 PHEVs (01 Jan 2019)
+%(Stand 2019 %\url{https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/b_jahresbilanz.html})
+and this number is growing exponentially. The Government has the goal to increase this number to 1 million by 2022.
+A Study by the Frauenhofer institute from 2010 showed with simulations, that a Vehicle to grid System could provide up to 3.5 kWh of capacity and 0.875 kW of regulation power per Vehicle. This study is now almost 10 years old and the capacities for batteries in EVs have increased a lot since then. But this study uses a very complex simulation which does not just use averages but accounts for different driving behavior at weekends, battery degeneration, dispatch time, different charges at day and night, and a whole lot more. Because of this its results are still viable today but it should be clear that the numbers will increase with improved batteries.
+%Seite 31: https://www.isi.fraunhofer.de/content/dam/isi/dokumente/sustainability-innovation/2010/WP4-2010_V2G-Valuation.pdf
+This would mean that today the system would have a theoretical capacity of 525 MWh and a regulation power of 131.25 kW. This numbers a relatively low but the number of EVs and PHEVs in Germany is growing. With 1 million vehicles in the system it would have a theoretical capacity of 3.5 GWh and a regulation power of 875 MW. Assuming that 90 percent of germanys vehicles (42 million vehicles) would be EVs or PHEVs it would result in a theoretical capacity of 147 GWh and a regulation power of 36.75 GW. This numbers will in reality by lower, but the Magnitude of the results show, that the system is scalable to compensate for the unused energy in relabels with enough vehicles.
+\\ \\
+\noindent
+(Cost): In order to operate such a system additional Infrastructure is needed. Wherever the EV is parked it needs a connection to the grid via a chargingstation. This means that we need additional to our fast charging gird on the highway a lot more charchingstations in the cities, at work and everywhere a car might get parked. This charchingstations also need to communicate with the gird in order to make to regulation and storage system work.
+At the Moment there are 17500 charchingstations in Germany, but 83000 EVs and 67000 PHEVs (01 Jan 2019).
+%\url{https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/b_jahresbilanz.html}
+%\url{https://de.statista.com/statistik/daten/studie/460234/umfrage/ladestationen-fuer-elektroautos-in-deutschland-monatlich/}
+With the Help of Numbers provided by the Volkswagenag we can calculate the costs. Assuming that every owner of an EV or and PHEV already has a charchingstaion at home we only need to install additional ones at workplaces, car parks and public places. But The ones at home still need a connection for the load management. Using the example given by the Volkswagenag a charchingstation, which provides place for 22 vehicles would have an investment of about 105000 Euro and 250 Euro upkeep every month. The connection for the charger at home would cost about 350 Euro a year.
+%\url{https://www.volkswagenag.com/presence/konzern/group-fleet/dokumente/Compendium_Electric_charging_for_fleets_DE.pdf}
+To ensure that the EVs and PHEVs can connect almost everywhere they park we would need about 9100 of the charchingstations from the example.
+The cost would then add up to about 960 million Euros of investment cost and 27.5 million per year to run them. And an additionally 52.5 Million per year to run the charginsttations at home.
+%\url{https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/b_jahresbilanz.html}
+If we assume 1 million vehicles in the system the cost would add up to 6.4 billion in Investment cost and 532 million per year to run all the charchingstations.
+\\ \\
+\noindent
+(Efficiency): Unidirectional Vehicle to Grid does not require multiple conversions form AC to DC and back like bidirectional Vehicle to Grid would. The Efficiency is comparable to the normal charching efficiency which is on average 65 – 75 percent. This loss efficiency is explained by the different design criteria of the converters. When the charger and the cars converter design match each other efficiency can be as high as 90 percent. Since the EVs and PHEVs constantly use their charge to drive it is not necessary to include the efficiency losses by holding the charge.%\url{https://backend.orbit.dtu.dk/ws/portalfiles/portal/137328554/efficiency_paper.pdf}
+\\ \\
+\noindent
+(Substanability):
+\\ \\
+\noindent
+(Conclusions):
+}
+
+\colchunk{\begin{tiny}
+\\\\ \url{https://en.wikipedia.org/wiki/Vehicle-to-grid} \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \url{https://www.isi.fraunhofer.de/content/dam/isi/dokumente/sustainability-innovation/2010/WP4-2010_V2G-Valuation.pdf}\\ \url{https://www.erneuerbar-mobil.de/sites/default/files/publications/anhang-optum-ap6_1.pdf}\\ \\ \\ \\ \\ \url{https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/b_jahresbilanz.html} \\ \\ \\ \\ \\ \url{https://www.isi.fraunhofer.de/content/dam/isi/dokumente/sustainability-innovation/2010/WP4-2010_V2G-Valuation.pdf}
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \url{https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/b_jahresbilanz.html} \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \url{https://www.volkswagenag.com/presence/konzern/group-fleet/dokumente/Compendium_Electric_charging_for_fleets_DE.pdf} \\ \\ \\ \\ \\ \\ \\ \\ \\\\ \\ \url{https://backend.orbit.dtu.dk/ws/portalfiles/portal/137328554/efficiency_paper.pdf}
+\url{}
+\end{tiny}
+}
+\end{parcolumns}
+
+\end{document}
