@@ -15,7 +15,7 @@
 \usepackage[official]{eurosym}
 \usepackage{lastpage}
 \usepackage{parcolumns}
-
+\usepackage{pdfpages}
 
 \usepackage[a4paper,bindingoffset=0.25in,
 top= 1in,left=0.5in,right=1in,bottom=1in,
@@ -35,32 +35,42 @@ footskip=.25in]{geometry}
 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \input{Cover.tex}
 \newpage
 %Section I
+\section{Project Statement: Utilizing unused renewable Energy}
 \input{ProjectStatement.tex}
 \newpage
+\section{ExecutiveSummary} %Section II
 \input{ExecutiveSummary.tex}
 \clearpage
-%Section III
+\section{Tabel of Contents}%Section III
 \tableofcontents
 \clearpage
-\section{Working paper} %Section IV
+\section{The Working Papers} %Section IV
 %Do subsections in the following!!!
 \input{V2G_Kai.tex}
 %\input{SectionIV.tex}
 \clearpage
+\section{AnalysisSummary} %Section V
 \input{AnalysisSummary.tex}
 \clearpage
+\section{Resources} %Section VI
 \input{Resources.tex}
 \clearpage
+\section{Glosary} %Section VII
 \input{Glosary.tex}
 \clearpage
+\section{Evaluation} %Section VIII
 \input{Evaluation.tex}
 \clearpage
+\section{ReferenceList} %Section IX
 \input{ReferenceList.tex}
 \clearpage
+\section{Other} %Section X
+\subsection{Presentation}
 \input{Presentation.tex}
 \clearpage
 \end{document}

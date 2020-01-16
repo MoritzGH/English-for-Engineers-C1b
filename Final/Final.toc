@@ -1,4 +1,13 @@
 \babel@toc {english}{}
 \contentsline {section}{\numberline {1}Project Statement: Utilizing unused renewable Energy}{2}{section.1}
-\contentsline {section}{\numberline {2}Working paper}{7}{section.2}
-\contentsline {subsection}{\numberline {2.1}Section IV Vehicle to Grid}{8}{subsection.2.1}
+\contentsline {section}{\numberline {2}ExecutiveSummary}{5}{section.2}
+\contentsline {section}{\numberline {3}Tabel of Contents}{6}{section.3}
+\contentsline {section}{\numberline {4}The Working Papers}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Section IV Vehicle to Grid}{8}{subsection.4.1}
+\contentsline {section}{\numberline {5}AnalysisSummary}{15}{section.5}
+\contentsline {section}{\numberline {6}Resources}{16}{section.6}
+\contentsline {section}{\numberline {7}Glosary}{18}{section.7}
+\contentsline {section}{\numberline {8}Evaluation}{19}{section.8}
+\contentsline {section}{\numberline {9}ReferenceList}{20}{section.9}
+\contentsline {section}{\numberline {10}Other}{21}{section.10}
+\contentsline {subsection}{\numberline {10.1}Presentation}{21}{subsection.10.1}
