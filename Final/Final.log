@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  20 JAN 2020 15:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  20 JAN 2020 15:57
 entering extended mode
 **./Final.tex
 (Final.tex
@@ -1337,7 +1337,7 @@ Package scrpage2 Warning: seems you are using a constant headheight.
 (scrpage2)                A better solution would be to use typearea package.
 
 (Cover.tex)
-<logo.png, id=94, 698.61pt x 584.1825pt>
+<logo.png, id=98, 698.61pt x 584.1825pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 43.
@@ -8604,7 +8604,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--48
 
  []
 
-<schaubild.png, id=530, 386.44376pt x 216.81pt>
+<schaubild.png, id=535, 386.44376pt x 216.81pt>
 File: schaubild.png Graphic file (type png)
 <use schaubild.png>
 Package pdftex.def Info: schaubild.png  used on input line 56.
@@ -10163,10 +10163,1544 @@ Package pdftex.def Info: logo.png  used on input line 195.
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 
-[36]) (AnalysisSummary.tex)
+[36]) (Batteries_Annabelle.tex
+Package parcolumns Info: Width of column 1 set to 71.13188pt on input line 3.
+Package parcolumns Info: Width of column 2 set to 284.52756pt on input line 3.
+Package parcolumns Info: Width of column 3 set to 71.13188pt on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (8.46251pt too wide) in paragraph at lines 4--11
+[]$ 
+ []
+
+
+Overfull \hbox (6.99869pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Bat-ter-ies and
+ []
+
+
+Overfull \hbox (1.47923pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Lithium-ion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (5.02232pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Nickel-Cad-
+ []
+
+
+Overfull \hbox (9.16673pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 mium bat-tery 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (13.88202pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Sodium-Sulfur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (3.77785pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Flow bat-tery 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (0.48616pt too wide) in paragraph at lines 4--11
+[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (11.3945pt too wide) in paragraph at lines 4--11
+[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (11.60477pt too wide) in paragraph at lines 4--11
+\OT1/cmr/m/n/12 Determining the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (12.94086pt too wide) in paragraph at lines 4--11
+\OT1/cmr/m/n/12 Investment costs 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (8.31035pt too wide) in paragraph at lines 4--11
+\OT1/cmr/m/n/12 Op-er-at-ing costs 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (11.56253pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Technical Fea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (10.28195pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 VRFB vs NaS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (9.75563pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Sustainability 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Overfull \hbox (14.52647pt too wide) in paragraph at lines 4--11
+\OT1/cmr/bx/n/12 Personal Com-
+ []
+
+
+Overfull \hbox (1.43495pt too wide) in paragraph at lines 13--38
+\OT1/cmr/m/n/12 tween 300 and 350$[]$C and the fast cor-ro-sion of the sodium
+ []
+
+
+Overfull \hbox (1.1903pt too wide) in paragraph at lines 13--38
+\OT1/cmr/m/n/12 uid elec-trolyte so-lu-tions which flow through elec-tro-chem-
+ []
+
+
+Overfull \hbox (8.893pt too wide) in paragraph at lines 13--38
+\OT1/cmr/m/n/12 com-pared to more es-tab-lished bat-tery types such as nickel-
+ []
+
+
+Overfull \hbox (6.15137pt too wide) in paragraph at lines 13--38
+\OT1/cmr/m/n/12 tric-ity in case of an elec-tric-ity short-age amounts to aroun
+d
+ []
+
+
+Overfull \hbox (2.90927pt too wide) in paragraph at lines 13--38
+\OT1/cmr/m/n/12 slow. The fre-quency can be re-stored af-ter a over-stressing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Overfull \hbox (18.6894pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 energystorage.org 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Overfull \hbox (15.75194pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 circuitdigest.com 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Overfull \hbox (18.6894pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 energystorage.org 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Overfull \hbox (1.31738pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 John R. Miller
+ []
+
+
+Overfull \hbox (4.09373pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 and An-drew F.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+
+Overfull \hbox (11.92699pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 Federal Net-work
+ []
+
+
+Overfull \hbox (13.23253pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 Agency and Fed-
+ []
+
+
+Overfull \hbox (1.65208pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 eral Car-tel Of-
+ []
+
+
+Overfull \hbox (12.4228pt too wide) in paragraph at lines 42--49
+\OT1/cmr/m/n/12 energiefirmen.de 
+ []
+
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 64.
+Package pdftex.def Info: logo.png  used on input line 51.
 (pdftex.def)             Requested size: 47.83104pt x 40.0pt.
 
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
@@ -10174,12 +11708,155 @@ Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 [37
 
+]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 51.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
 
-] (Resources.tex
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[38]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 51.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[39]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 51.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[40]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 51.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[41]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 51.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[42]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 51.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[43]
+Overfull \hbox (61.25581pt too wide) in paragraph at lines 55--72
+ [][] 
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 73.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 73--80
+
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 80.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[45]) (AnalysisSummary.tex
+Package parcolumns Info: Width of column 1 set to 71.13188pt on input line 1.
+Package parcolumns Info: Width of column 2 set to 284.52756pt on input line 1.
+Package parcolumns Info: Width of column 3 set to 71.13188pt on input line 1.
+
+Overfull \hbox (19.00404pt too wide) in paragraph at lines 2--4
+[] \OT1/cmr/bx/n/12 Con-clu-sions 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+
+Overfull \hbox (2.04037pt too wide) in paragraph at lines 2--4
+\OT1/cmr/bx/n/12 Criteria Dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+
+Overfull \hbox (21.99036pt too wide) in paragraph at lines 2--4
+\OT1/cmr/bx/n/12 Suggestions and
+ []
+
+
+Overfull \hbox (12.5695pt too wide) in paragraph at lines 2--4
+\OT1/cmr/bx/n/12 Rec-om-men-da-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--12
+
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 18.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[46
+
+
+]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 22.
+(pdftex.def)             Requested size: 47.83104pt x 40.0pt.
+
+Overfull \vbox (34.52505pt too high) has occurred while \output is active []
+
+
+[47]) (Resources.tex
 
 pdfTeX warning: pdflatex (file ./Lebenslauf_Kai.pdf): PDF inclusion: found PDF 
 version <1.7>, but at most version <1.5> allowed
-<Lebenslauf_Kai.pdf, id=585, 597.55246pt x 845.07724pt>
+<Lebenslauf_Kai.pdf, id=632, 597.55246pt x 845.07724pt>
 File: Lebenslauf_Kai.pdf Graphic file (type pdf)
 <use Lebenslauf_Kai.pdf>
 Package pdftex.def Info: Lebenslauf_Kai.pdf  used on input line 2.
@@ -10200,7 +11877,7 @@ version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./Lebenslauf_Kai.pdf): PDF inclusion: found PDF 
 version <1.7>, but at most version <1.5> allowed
-<Lebenslauf_Kai.pdf, id=588, page=1, 597.55246pt x 845.07724pt>
+<Lebenslauf_Kai.pdf, id=635, page=1, 597.55246pt x 845.07724pt>
 File: Lebenslauf_Kai.pdf Graphic file (type pdf)
 <use Lebenslauf_Kai.pdf, page 1>
 Package pdftex.def Info: Lebenslauf_Kai.pdf , page1 used on input line 2.
@@ -10217,7 +11894,8 @@ Package pdftex.def Info: logo.png  used on input line 2.
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 
-[38
+[48
+
 
 ]
 File: Lebenslauf_Kai.pdf Graphic file (type pdf)
@@ -10232,11 +11910,11 @@ File: Lebenslauf_Kai.pdf Graphic file (type pdf)
 <use Lebenslauf_Kai.pdf, page 1>
 Package pdftex.def Info: Lebenslauf_Kai.pdf , page1 used on input line 2.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
- [39 <./Lebenslauf_Kai.pdf>]
+ [49 <./Lebenslauf_Kai.pdf>]
 
 pdfTeX warning: pdflatex (file ./Lebenslauf_Moritz.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Lebenslauf_Moritz.pdf, id=614, 597.55246pt x 845.07718pt>
+<Lebenslauf_Moritz.pdf, id=662, 597.55246pt x 845.07718pt>
 File: Lebenslauf_Moritz.pdf Graphic file (type pdf)
 <use Lebenslauf_Moritz.pdf>
 Package pdftex.def Info: Lebenslauf_Moritz.pdf  used on input line 3.
@@ -10257,7 +11935,7 @@ DF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./Lebenslauf_Moritz.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Lebenslauf_Moritz.pdf, id=617, page=1, 597.55246pt x 845.07718pt>
+<Lebenslauf_Moritz.pdf, id=665, page=1, 597.55246pt x 845.07718pt>
 File: Lebenslauf_Moritz.pdf Graphic file (type pdf)
 <use Lebenslauf_Moritz.pdf, page 1>
 Package pdftex.def Info: Lebenslauf_Moritz.pdf , page1 used on input line 3.
@@ -10278,66 +11956,66 @@ File: Lebenslauf_Moritz.pdf Graphic file (type pdf)
 <use Lebenslauf_Moritz.pdf, page 1>
 Package pdftex.def Info: Lebenslauf_Moritz.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[40 <./Lebenslauf_Moritz.pdf>]) (Glosary.tex)
+[50 <./Lebenslauf_Moritz.pdf>]) (Glosary.tex)
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 70.
+Package pdftex.def Info: logo.png  used on input line 71.
 (pdftex.def)             Requested size: 47.83104pt x 40.0pt.
 
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 
-[41
+[51
 
 ] (Evaluation.tex)
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 73.
+Package pdftex.def Info: logo.png  used on input line 74.
 (pdftex.def)             Requested size: 47.83104pt x 40.0pt.
 
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 
-[42
+[52
 
 ] (ReferenceList.tex)
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 76.
+Package pdftex.def Info: logo.png  used on input line 77.
 (pdftex.def)             Requested size: 47.83104pt x 40.0pt.
 
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 
-[43
+[53
 
 ] (Presentation.tex)
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 80.
+Package pdftex.def Info: logo.png  used on input line 81.
 (pdftex.def)             Requested size: 47.83104pt x 40.0pt.
 
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 
-[44
+[54
 
 ] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 (Final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `Final.out' has not changed.
-(rerunfilecheck)             Checksum: 93445F0A0DEEFB5137F5F8D968FB3A9C;956.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
+(rerunfilecheck)             Checksum: 0A84994745B2352B5C02572204FCA464;1016.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 30527 strings out of 492969
- 595902 string characters out of 3126585
- 722707 words of memory out of 3000000
- 33846 multiletter control sequences out of 15000+200000
+ 30547 strings out of 492969
+ 596248 string characters out of 3126585
+ 722493 words of memory out of 3000000
+ 33851 multiletter control sequences out of 15000+200000
  541491 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,18n,81p,2988b,1004s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -10363,9 +12041,9 @@ C:/Users/kbhan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmtt12.pfb><C:/Users/kbhan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmtt8.pfb><C:/Users/kbhan/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/eurosym/feymr10.pfb>
-Output written on Final.pdf (44 pages, 660306 bytes).
+Output written on Final.pdf (54 pages, 687783 bytes).
 PDF statistics:
- 726 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 287 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 777 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 295 words of extra memory for PDF output out of 10000 (max. 10000000)
 
