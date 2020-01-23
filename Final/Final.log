@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.19)  23 JAN 2020 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.19)  23 JAN 2020 12:27
 entering extended mode
 **./Final.tex
 (Final.tex
@@ -1777,7 +1777,106 @@ Package pdftex.def Info: logo.png  used on input line 47.
 Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 
-[4] (ExecutiveSummary.tex)
+[4] (ExecutiveSummary.tex
+Package parcolumns Info: Width of column 1 set to 71.13188pt on input line 1.
+Package parcolumns Info: Width of column 2 set to 284.52756pt on input line 1.
+Package parcolumns Info: Width of column 3 set to 71.13188pt on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Overfull \hbox (10.51396pt too wide) in paragraph at lines 3--4
+\OT1/cmr/bx/n/12 Study Project 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Overfull \hbox (5.49869pt too wide) in paragraph at lines 3--4
+\OT1/cmr/bx/n/12 Problems en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Overfull \hbox (2.75763pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/12 textbfAnalysis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Overfull \hbox (1.507pt too wide) in paragraph at lines 3--4
+\OT1/cmr/bx/n/12 Recommend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+)
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 50.
@@ -12910,7 +13009,7 @@ C:/Users/moehr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmtt12.pfb><C:/Users/moehr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmtt8.pfb><C:/Users/moehr/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/eurosym/feymr10.pfb>
-Output written on Final.pdf (64 pages, 1987883 bytes).
+Output written on Final.pdf (64 pages, 1988025 bytes).
 PDF statistics:
  972 PDF objects out of 1000 (max. 8388607)
  87 named destinations out of 1000 (max. 500000)
