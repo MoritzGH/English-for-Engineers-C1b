@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  26 JAN 2020 22:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  26 JAN 2020 22:52
 entering extended mode
 **./Final.tex
 (Final.tex
@@ -13634,31 +13634,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--10
-
- []
-
-
 Overfull \hbox (16.63199pt too wide) in paragraph at lines 6--10
 \OT1/cmr/bx/n/12 Vehicle to Grid 
  []
@@ -13812,7 +13787,7 @@ Overfull \vbox (34.52505pt too high) has occurred while \output is active []
 
 pdfTeX warning: pdflatex (file ./Presentation.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<Presentation.pdf, id=905, 597.55246pt x 845.07724pt>
+<Presentation.pdf, id=903, 597.55246pt x 845.07724pt>
 File: Presentation.pdf Graphic file (type pdf)
 <use Presentation.pdf>
 Package pdftex.def Info: Presentation.pdf  used on input line 1.
@@ -13833,7 +13808,7 @@ rsion <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./Presentation.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<Presentation.pdf, id=908, page=1, 597.55246pt x 845.07724pt>
+<Presentation.pdf, id=906, page=1, 597.55246pt x 845.07724pt>
 File: Presentation.pdf Graphic file (type pdf)
 <use Presentation.pdf, page 1>
 Package pdftex.def Info: Presentation.pdf , page1 used on input line 1.
@@ -13878,7 +13853,7 @@ Package pdftex.def Info: Presentation.pdf , page1 used on input line 1.
 
 pdfTeX warning: pdflatex (file ./Presentation.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<Presentation.pdf, id=952, page=2, 597.55246pt x 845.07724pt>
+<Presentation.pdf, id=950, page=2, 597.55246pt x 845.07724pt>
 File: Presentation.pdf Graphic file (type pdf)
 <use Presentation.pdf, page 2>
 Package pdftex.def Info: Presentation.pdf , page2 used on input line 1.
@@ -13903,7 +13878,7 @@ Package pdftex.def Info: Presentation.pdf , page2 used on input line 1.
 
 pdfTeX warning: pdflatex (file ./Presentation.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<Presentation.pdf, id=958, page=3, 597.55246pt x 845.07724pt>
+<Presentation.pdf, id=956, page=3, 597.55246pt x 845.07724pt>
 File: Presentation.pdf Graphic file (type pdf)
 <use Presentation.pdf, page 3>
 Package pdftex.def Info: Presentation.pdf , page3 used on input line 1.
@@ -13966,9 +13941,9 @@ cmti12.pfb><C:/Users/kbhan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmtt12.pfb><C:/Users/kbhan/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/kbhan/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Final.pdf (69 pages, 2170614 bytes).
+Output written on Final.pdf (69 pages, 2170059 bytes).
 PDF statistics:
- 1056 PDF objects out of 1200 (max. 8388607)
+ 1054 PDF objects out of 1200 (max. 8388607)
  92 named destinations out of 1000 (max. 500000)
  426 words of extra memory for PDF output out of 10000 (max. 10000000)
 
