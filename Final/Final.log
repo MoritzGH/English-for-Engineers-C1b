@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.19)  28 JAN 2020 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.19)  28 JAN 2020 10:23
 entering extended mode
 **./Final.tex
 (Final.tex
@@ -13935,32 +13935,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--25
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--25
+Underfull \hbox (badness 10000) in paragraph at lines 5--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--25
+Underfull \hbox (badness 10000) in paragraph at lines 5--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--25
+Underfull \hbox (badness 10000) in paragraph at lines 5--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--25
+Underfull \hbox (badness 10000) in paragraph at lines 5--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--25
+Underfull \hbox (badness 10000) in paragraph at lines 5--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--26
 
  []
 
@@ -14556,16 +14561,12 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `Final.out' has not changed.
 (rerunfilecheck)             Checksum: E8742C80DD7C781DC2BAFF160BD5681B;1151.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
  30710 strings out of 492970
  599196 string characters out of 3126593
- 721181 words of memory out of 3000000
+ 721473 words of memory out of 3000000
  33985 multiletter control sequences out of 15000+200000
  541803 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -14593,7 +14594,7 @@ cmti12.pfb><C:/Users/moehr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmtt12.pfb><C:/Users/moehr/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/moehr/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Final.pdf (71 pages, 2289553 bytes).
+Output written on Final.pdf (71 pages, 2289591 bytes).
 PDF statistics:
  1095 PDF objects out of 1200 (max. 8388607)
  98 named destinations out of 1000 (max. 500000)
